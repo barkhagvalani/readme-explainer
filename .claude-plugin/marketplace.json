@@ -1,0 +1,19 @@
+{
+  "name": "readme-explainer",
+  "description": "Plain-language explainers for README files.",
+  "owner": {
+    "name": "Barkha Gvalani"
+  },
+  "plugins": [
+    {
+      "name": "readme-explainer",
+      "source": "./",
+      "description": "Turn README files into plain-language explainers for people who don't read code.",
+      "author": {
+        "name": "Barkha Gvalani"
+      },
+      "category": "documentation",
+      "homepage": "https://github.com/barkhagvalani/readme-explainer"
+    }
+  ]
+}

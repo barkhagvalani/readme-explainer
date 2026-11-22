@@ -1,0 +1,13 @@
+{
+  "name": "readme-explainer",
+  "displayName": "README Explainer",
+  "version": "0.1.0",
+  "description": "Turn README files into plain-language explainers for people who don't read code.",
+  "author": {
+    "name": "Barkha Gvalani"
+  },
+  "homepage": "https://github.com/barkhagvalani/readme-explainer",
+  "repository": "https://github.com/barkhagvalani/readme-explainer",
+  "license": "Apache-2.0",
+  "keywords": ["documentation", "readme", "plain-language", "onboarding"]
+}

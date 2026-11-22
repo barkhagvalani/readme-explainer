@@ -1,0 +1,10 @@
+README Explainer
+Copyright 2026 Barkha Gvalani
+
+This product is licensed under the Apache License, Version 2.0.
+
+It is based on the author's design proposal for an explainer skill in the
+Elephant-Goldfish Model (https://github.com/google/elephant-goldfish-model),
+which is licensed under the Apache License, Version 2.0. It is designed to work
+with README files produced by that project's egm-bootstrap skill. This project
+is not affiliated with or endorsed by Google.
